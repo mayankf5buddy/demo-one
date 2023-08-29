@@ -1,0 +1,2 @@
+Just some text for testing
+this is second edit in the text file.
